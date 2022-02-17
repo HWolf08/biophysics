@@ -1,0 +1,630 @@
+FeatureURI,Name,UTM_E,UTM_N,UTMDatumZone,LatDegree,LongDegree,SRS,LocationUncertaintyStatement,LocationUncertaintyCode,LocationUncertaintyRadius,LocationKeyword,HeatApplication,Temperature,TempUnits,TempMeasurementProcedure,Flow,FlowUnits,FlowMeasurementProcedure,Capacity,CapacityUnits,CapacityProcedure,EnergyUse,EnergyUseUnits,EnergyUseProcedure,LoadFactor,FacilityContact,PostalAddress,Zip,Phone,EMailAddress,Source,MetadataURI
+OR_035_GFLR_01,"""Gone Fishing""|Liskey Ranch",604264.4476,4656429.144,10 T,42.053,-121.7400,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Klamath County|
+Klamath Hills",Animal Aquaculture,180,F,unknown,200,gpm,unknown,1.2,MWt,unknown,8.2,GWh/yr,unknown,0.8,Ron Barnes,"3875 Lower Klamath lake Rd.  Klamath Falls, OR",97603,541 798-5202,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.  
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dua0181.htm",
+OR_037_SL_02,"Summer Lake Aquaculture|
+Desert Springs Trout Farm
+Aquaculture",684815.8666,4762088.076,10 T,42.989,-120.7330,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,Lake County,Animal Aquaculture,,,,200,gpm,unknown,1.2,MWt,unknown,8.2,GWh/yr,unknown,0.8,,"P.O. Box 40
+Summer lake, OR",97640,"541 943-3931
+541 943-3192",,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.  
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dua0182.htm",
+OR_035_CKF_03,City of Klamath Falls,600541.2393,4675476.994,10 T,42.225,-121.7817,EPSG:4326,"General City location 
+lat/long from USGS Quadrangle/
+National Map Accuracy Standard",1,80,"Klamath County|
+Klamath Falls, OR",District Heating,210,F,unknown,1000,gpm,unknown,4.7,MWt,unknown,10.3,GWh/yr,unknown,0.25,,"500 Klamath Ave.
+Box 237
+Klamath Falls, OR",97601,541 883-5316,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dud0015.htm
+",
+OR_035_OIT_04,"Oregon Institute of Technology
+Technology (OIT)",600137.3371,4678914.044,10 T,42.256,-121.7860,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Klamath County|
+Klamath Falls, OR",District Heating,192,F,unknown,745,gpm,unknown,6.2,MWt,unknown,16.1,GWh/yr,unknown,0.25,,"3201 Campus Dr.
+Klamath Falls, OR",97601,541 885-1691,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dud0016.htm
+",
+OR_061_CHS_05,Cove Hot Spring,436647.1178,5016261.918,11 T,45.297,-117.8080,EPSG:4326,"General City location 
+lat/long from USGS Quadrangle/
+National Map Accuracy Standard",1,80,Union County,Aquaculture,108,F,unknown,47,gpm,unknown,0.2,MWt,unknown,0.4,GWh/yr,unknown,0.23,,,,,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.  
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dug0148.htm",
+OR_029_JG_06,Jackson Greenhouses,524192.1108,4671246.796,10 T,42.193,-122.7070,EPSG:4326,"General City location 
+lat/long from USGS Quadrangle/
+National Map Accuracy Standard",1,80,"Jackson County|
+Ashland, OR",Aquaculture,111,F,unknown,30,gpm,unknown,0.09,MWt,unknown,0.2,GWh/yr,unknown,0.19,,"2253 Hwy 99 North Ashland, OR",97520,541 482 3776,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.  
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dug0149.htm",
+OR_035_LG_07,Liskey Greenhouses,604103.8451,4656093.608,10 T,42.050,-121.7420,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Klamath County|
+Klamath Hills",Aquaculture,199,F,unknown,400,gpm,unknown,1.7,MWt,unknown,4.5,GWh/yr,unknown,0.3,Vicki Azcuenaga,"4650 Lower Klamath Lake Rd.
+Klamath Falls, OR",97603,541 798-5305    541 798 5770,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.  
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dug0150.htm",
+OR_037_TG_08,The Greenhouse,717471.8607,4677788.28,10 T,42.222,-120.3650,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Lake County|
+Lakeview, OR",Aquaculture,220,F,unknown,315,gpm,unknown,1.4,MWt,unknown,3.6,GWh/yr,unknown,0.3,Andy Parker,"95709 Sunny Slope Ln.  Lakeview, OR",97630,"541 947-3923
+541 947-5152",,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.  
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dug0151.htm",
+OR_045_AD_09,Ag Dryers,480672.1966,4869901.942,11 T,43.982,-117.2410,EPSG:4326,"General City location 
+lat/long from USGS Quadrangle/
+National Map Accuracy Standard",1,80,"Malheur County|
+Vale, OR","Industrial Use|
+Aquaculture",200,F,unknown,60,gpm,unknown,0.88,MWt,unknown,1.9,GWh/yr,unknown,0.25,,,,,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dui0192.htm",
+OR_045_OTM_56,Oregon Trail Mushrooms,480912.7918,4869901.243,11 T,43.982,-117.238,EPSG:4326,"General City location 
+lat/long from USGS Quadrangle/
+National Map Accuracy Standard",1,80,"Malheur County|
+Vale, OR",Industrial Use,235,F,unknown,275,gpm,unknown,6,MWt,unknown,15.9,GWh/yr,unknown,0.3,,"Rt. 3, Box 4397
+Vale, OR",97918,541 473-3103,,"http://geoheat.oit.edu/directuse/all/dui0194.htm
+Culver, G., 2004. ""Oregon Trail Mushrooms"", Geo-Heat Center Quarterly Bulletin, Vol. 25, No. 1.
+http://geoheat.oit.edu/bulletin/bull25-1/art5.pdf",
+OR_035_CKF_10,City of Klamath Falls,600541.2393,4675476.994,10 T,42.225,-121.7817,EPSG:4326,General City lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Klamath County|
+Klamath Falls, OR","Snow
+Melting",125,F,unknown,300,gpm,unknown,1.2,MWt,unknown,1,GWh/yr,unknown,0.1,,"Klamath Falls, OR",,,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dui0197.htm",
+OR_035_HN_11,Herald and News,602660.5657,4675618.674,10 T,42.226,-121.7560,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Klamath County|
+Klamath Falls, OR","Snow
+Melting",>212,F,unknown,,,unknown,,,,0.3,GWh/yr,unknown,,,"P.O. Box 788
+2701 Foothills Blvd.
+Klamath Falls, OR","97601 (PO)
+97603",541 885-4410,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf",
+OR_035_HD_12,Highway De-icing,600541.2393,4675476.994,10 T,42.225,-121.7817,EPSG:4326,General City lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Klamath County|
+Klamath Falls, OR","Snow
+Melting",190,F,unknown,,,unknown,0.12,MWt,unknown,0.73,GWh/yr,unknown,0.71,,"Klamath Falls, OR",,,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dui0193.htm",
+OR_035_OIT_13,"Oregon Institute of Technology (OIT)
+Technology (OIT)",600137.3371,4678914.044,10 T,42.256,-121.7860,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Klamath County|
+Klamath Falls, OR","Snow
+Melting",150,F,unknown,50,gpm,unknown,0.06,MWt,unknown,0.1,GWh/yr,unknown,0.11,,"3201 Campus Dr.
+Klamath Falls, OR",97601,541 885-1691,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dui0198.htm",
+OR_005_AHS_14,Austin Hot Springs,578552.8799,4985544.79,10 T,45.019,-122.0030,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Clackamas County| 
+Clackamas River",ResortOrPool,186,F,unknown,250,gpm,unknown,0.06,MWt,unknown,0.3,GWh/yr,unknown,0.57,,,,,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.  
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dur0364.htm",
+OR_005_BagHS_15,Bagby Hot Springs,565175.0087,4976061.807,10 T,44.935,-122.1740,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,Clackamas County| Collowash R.,ResortOrPool,,,,,,,0.3,MWt,unknown,2.1,GWh/yr,unknown,0.8,,,,,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.  
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dur0365.htm",
+OR_039_BelHS_16,Belknap Hot Springs,575839.5453,4893636.299,10 T,44.192,-122.0510,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,Lane County| ,ResortOrPool,160,F,unknown,50,gpm,unknown,0.3,MWt,unknown,1.6,GWh/yr,unknown,0.7,John Bigelow,"PO Box 2001
+McKenzie Bridge, Or",97413,541 822-3933,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.  
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dur0368.htm",
+OR_023_BMHS_17,"Blue Mountain H.S.
+Guest Ranch",374562.5698,4912619.486,11 T,44.356,-118.5740,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Grant County|
+Prairie City",ResortOrPool,,,,,,,0.3,MWt,unknown,2.1,GWh/yr,unknown,0.8,,,,,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dur0369.htm",
+OR_047_BC_18,"Breitenbush
+Community",581013.7571,4959133.002,10 T,44.781,-121.9760,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Marion County|
+Detroit, OR",ResortOrPool,,,,,,,0.3,MWt,unknown,2.1,GWh/yr,unknown,0.8,,"PO Box 578
+Detroit, OR 97342",97342,541 854-3314,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.  
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dur0370.htm",
+OR_061_CSP_19,Cove Swimming Pool,436722.1882,5015927.853,11 T,45.294,-117.8070,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Cove, OR|
+Union County",ResortOrPool,,,,,,,0.3,MWt,unknown,2.1,GWh/yr,unknown,0.8,,"907 Water Street
+Cove, OR",97824,541 568-4890,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dur0371.htm",
+OR_025_CCHS_20,"Crystal Crane Hot
+Springs",367366.1758,4811094.206,11 T,43.441,-118.6390,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Harney County|
+Burns, OR",ResortOrPool,185,F,unknown,150,gpm,unknown,0.3,MWt,unknown,2.1,GWh/yr,unknown,0.8,,"59315 Highway 78
+Burns, OR",97720,541-493-2312,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dur0372.htm
+",
+OR_037_HL_21,Hunter's Lodge,717148.5677,4677555.984,10 T,42.220,-120.3690,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Lake County|
+Lakeview, OR",ResortOrPool,,,,,,,0.3,MWt,unknown,2.1,GWh/yr,unknown,0.8,,"18088 Highway 395 North
+Lakeview, OR",97630,541 947-4242,huntersresort@aol.com,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dur0373.htm",
+OR_061_HLR_22,Hot Lake Resort,424814.8055,5010391.814,11 T,45.243,-117.9580,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Union County|
+La Grande, OR",ResortOrPool,208,F,unknown,,,,,,,2.1,GWh/yr,unknown,,,"66172 Hwy 203
+P.O. Box 1043
+La Grande, OR",97850,541 963-4685,bb@hotlakesprings.com,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf",
+OR_023_JBL_23,J Bar L Guest Ranch,344671.5851,4917041.171,11 T,44.390,-118.9502,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Grant County|
+Canyon City, OR",ResortOrPool,,,,,,,0.3,MWt,unknown,2.1,GWh/yr,unknown,0.8,,"IZ Route
+Canyon City, OR",97820,541 575-2517,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dur0374.htm
+",
+OR_029_JHS_24,Jackson Hot Springs,520020.489,5007532.892,10 T,45.221,-122.7450,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Jackson County|
+Ashland, OR",ResortOrPool,100,F,unknown,,,,0.3,MWt,unknown,2.1,GWh/yr,unknown,0.8,,"2253 Hwy 99 North Ashland, OR",97520,541 482-3776,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dur0375.htm",
+OR_035_KFSP_25,"Klamath Falls
+Swimming Pools (5)",600541.2393,4675476.994,10 T,42.225,-121.7817,EPSG:4326,General City lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Klamath County|
+Klamath Falls, OR|
+",ResortOrPool,180,F,unknown,,,,0.3,MWt,unknown,1.3,GWh/yr,unknown,0.45,,"Klamath Falls, OR",,,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dur0377.htm",
+OR_059_LHS_26,Lehman Hot Springs,369434.4533,5001178.479,11 T,45.152,-118.6610,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Umatilla County|
+Ukiah, OR",ResortOrPool,167,F,unknown,,,,0.3,MWt,unknown,2.1,GWh/yr,unknown,0.8,,"Milepost 17 Hwy 244
+Box 263
+Ukiah, OR",97880,541 427-3015,lehmanhotsprings@yahoo.com,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dur0378.htm",
+OR_037_PSP_27,Public Swimming Pool,719398.475,4674291.266,10 T,42.190,-120.3430,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Lake County|
+Lakeview, OR",ResortOrPool,180,F,unknown,20,gpm,unknown,0.2,MWt,unknown,0.5,GWh/yr,unknown,0.26,,"2nd & N St.
+Lakeview, OR",97630,541 947-2900,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dur0379.htm",
+OR_023_RHS_28,Ritter Hot Springs,330781.6044,4973188.06,11 T,44.892,-119.1430,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Grant County|
+Canyon City, OR",ResortOrPool,,,,,,,0.3,MWt,unknown,2.1,GWh/yr,unknown,0.8,,"Box 16
+Ritter, OR",97872,541 421-3846,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dur0380.htm",
+OR_037_SLHS_29,"Summer Lake Hot
+Springs",692564.7685,4732960.819,10 T,42.725,-120.6480,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Lake County|
+Paisley, OR",ResortOrPool,118,F,unknown,,,,0.3,MWt,unknown,2.1,GWh/yr,unknown,0.8,,"41777 Highway 31
+Paisley, OR",97636,541 943-3931,relax@summerlakehotsprings.com,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dur0381.htm",
+OR_065_KNT_30,Kah-nee-ta,642131.2761,4969084.393,10 T,44.861,-121.2010,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Wasco County|
+Jefferson County|
+Warm Springs, OR",ResortOrPool,126,F,unknown,450,gpm,unknown,1.3,MWt,unknown,8.1,GWh/yr,unknown,0.7,,"P.O. Box 1240
+Shipping:
+6823 Highway 8
+Warm Springs, OR",97761,541 553-1112,fmosesahern@kahneeta.com,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dur0376.htm",
+OR_001_BSP_31,Baker Swimming Pool,435678.4088,4958833.324,11 T,44.780,-117.8130,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Baker County|
+Baker City, OR",ResortOrPool,75,F,unknown,200,gpm,unknown,0.2,MWt,unknown,0.5,GWh/yr,unknown,0.34,,"580 Baker Street
+Baker City, OR",97814,541 523-7747,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dur0367.htm",
+OR_037_HHS_32,Hunters Hot Spring,717148.5677,4677555.984,10 T,42.220,-120.3690,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Lake County|
+Lakeview, OR",Space Heating,202,F,unknown,78,gpm,unknown,0.2,MWt,unknown,0.5,GWh/yr,unknown,0.24,,"18088 Highway 395 North
+Lakeview, OR",97630,541 947-4242,huntersresort@aol.com,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dus0094.htm",
+OR_035_KFAB_33,"Klamath Falls
+Apartment Bldgs. (13)",600541.2393,4675476.994,10 T,42.225,-121.7817,EPSG:4326,"General City location 
+lat/long from USGS Quadrangle/
+National Map Accuracy Standard",1,80,"Klamath County|
+Klamath Falls, OR",Space Heating,180,F,unknown,,,,1.9,MWt,unknown,4.2,GWh/yr,unknown,0.25,,"Klamath Falls, OR",,,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dus0096.htm",
+OR_035_KFC_34,"Klamath Falls
+Churches (5)",600541.2393,4675476.994,10 T,42.225,-121.7817,EPSG:4326,"General City location 
+lat/long from USGS Quadrangle/
+National Map Accuracy Standard",1,80,"Klamath County|
+Klamath Falls, OR",Space Heating,190,F,unknown,,,,0.5,MWt,unknown,1.1,GWh/yr,unknown,0.26,,"Klamath Falls, OR",,,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dus0097.htm",
+OR_035_KCS_35,Klamath Co. Shops,600541.2393,4675476.994,10 T,42.225,-121.7817,EPSG:4326,"General City location 
+lat/long from USGS Quadrangle/
+National Map Accuracy Standard",1,80,"Klamath County|
+Klamath Falls, OR",Space Heating,118,F,unknown,113,gpm,unknown,0.5,MWt,unknown,1.1,GWh/yr,unknown,0.26,,"Klamath Falls, OR",,,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dus0099.htm",
+OR_035_KCJ_36,Klamath County Jail,603327.2959,4675184.201,10 T,42.222,-121.7480,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Klamath County|
+Klamath Falls, OR",Space Heating,180,F,unknown,700,gpm,unknown,3.1,MWt,unknown,6.7,GWh/yr,unknown,0.25,,"3300 Vanderberg Rd
+Klamath Falls, OR",97603,541 883-5130,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dus0098.htm",
+OR_037_LR_37,"Lakeview Residences
+(9)",719236.7739,4674175.074,10 T,42.189,-120.3450,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Lake County|
+Lakeview, OR",Space Heating,190,F,unknown,50,gpm,unknown,0.12,MWt,unknown,0.3,GWh/yr,unknown,0.26,,"Lakeview, OR",,541 947-2371,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dus0102.htm",
+OR_035_LV_38,Langel Valley,631600.8739,4673101.72,10 T,42.199,-121.4060,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Klamath County|
+Langel Valley|
+Bonanza, OR",Space Heating,147,F,unknown,20,gpm,unknown,0.03,MWt,unknown,0.03,GWh/yr,unknown,0.11,,"Bonanza, OR",,,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dus0103.htm",
+OR_035_MIO_39,"Maywood Industries of
+Oregon",602359.5315,4673615.221,10 T,42.208,-121.7600,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Klamath County|
+Klamath Falls, OR",Space Heating,118,F,unknown,450,gpm,unknown,0.9,MWt,unknown,2,GWh/yr,unknown,0.26,,"2350 Maywood Dr.
+Klamath Falls, OR",97603,541 883-5366,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dus0104.htm",
+OR_035_SLMC_40,"Sky Lakes Medical Center|
+previously Merle West Medical Center",600307.0649,4678583.289,10 T,42.253,-121.7840,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Klamath County|
+Klamath Falls, OR",Space Heating,191,F,unknown,325,gpm,unknown,3.1,MWt,unknown,7,GWh/yr,unknown,0.26,,"2865 Daggett St.
+Klamath Falls, OR",97601,541 882-6311,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dus0106.htm",
+OR_035_CTRC_41,"Crystal Terrace
+Retirement Community",600638.6172,4678476.972,10 T,42.252,-121.7800,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Klamath County|
+Klamath Falls, OR",Space Heating,184,F,unknown,,,,,,,1.8,GWh/yr,unknown,,,"1000 Town Center Dr.
+Klamath Falls, OR",97601,541 885-7250,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf",
+OR_035_OG_42,Olene Gap,613322.1473,4669673.86,10 T,42.171,-121.6280,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Klamath County|
+Klamath Falls, OR",Space Heating,189,F,unknown,300,gpm,unknown,0.03,MWt,unknown,0.03,GWh/yr,unknown,0.11,,"Olene, OR",,,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dus0107.htm",
+OR_045_VR_43,Vale Residences,480591.9983,4869902.177,11 T,43.982,-117.2420,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Malheur County|
+Vale, OR",Space Heating,185,F,unknown,24,gpm,unknown,0.09,MWt,unknown,0.2,GWh/yr,unknown,0.27,,"Vale, OR",,,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dus0110.htm",
+OR_045_VSH_44,Vale Slaughter House,480672.1966,4869901.942,11 T,43.982,-117.2410,EPSG:4326,"General City location 
+lat/long from USGS Quadrangle/
+National Map Accuracy Standard",1,80,"Malheur County|
+Vale, OR",Space Heating,150,F,unknown,20,gpm,unknown,0.09,MWt,unknown,0.2,GWh/yr,unknown,0.27,,"Vale, OR",,,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dus0111.htm
+",
+OR_037_SLHS_45,"Summer Lake Hot
+Springs",692564.7685,4732960.819,10 T,42.725,-120.6480,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Lake County|
+Paisley, OR",Space Heating,109,F,unknown,20,gpm,unknown,0.3,MWt,unknown,0.7,GWh/yr,unknown,0.29,,"41777 Highway 31
+Paisley, OR",97636,541 943-3931,relax@summerlakehotsprings.com,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dus0109.htm",
+OR_035_KFR_46,"Klamath Falls
+Residence (550)",600541.2393,4675476.994,10 T,42.225,-121.7817,EPSG:4326,"General City location 
+lat/long from USGS Quadrangle/
+National Map Accuracy Standard",1,80,"Klamath County|
+Klamath Falls, OR",Space Heating,180,F,unknown,,,,12.8,MWt,unknown,28,GWh/yr,unknown,0.25,,"Klamath Falls, OR",,,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dus0100.htm",
+OR_035_KFS_47,"Klamath Falls
+Schools (6)",600541.2393,4675476.994,10 T,42.225,-121.7817,EPSG:4326,"General City location 
+lat/long from USGS Quadrangle/
+National Map Accuracy Standard",1,80,"Klamath County|
+Klamath Falls, OR",Space Heating,180,F,unknown,,,,2.5,MWt,unknown,5.8,GWh/yr,unknown,0.26,,"Klamath Falls, OR",97601,541 883-5366,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dus0101.htm",
+OR_035_HHS_48,Henley High School,607904.6749,4667367.583,10 T,42.151,-121.6940,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Klamath County|
+Klamath Falls, OR",Space Heating,127,F,unknown,400,gpm,unknown,0.9,MWt,unknown,1.9,GWh/yr,unknown,0.25,,"8245 Oregon 39
+Klamath Falls, OR",97603,541 883-5040,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dus0092.htm",
+OR_035_HN_49,Herald and News,602660.5657,4675618.674,10 T,42.226,-121.7560,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Klamath County|
+Klamath Falls, OR",Space Heating,>212,F,unknown,,,unknown,,,,0.9,GWh/yr,unknown,,,"P.O. Box 788
+2701 Foothills Blvd.
+Klamath Falls, OR","97601 (PO)
+97603",541 885-4410,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf",
+OR_047_BHS_50,"Breitenbush Hot
+Springs",581013.7571,4959133.002,10 T,44.781,-121.9760,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,Marion County,Space Heating,212,F,unknown,900,gpm,unknown,0.4,MWt,unknown,1.1,GWh/yr,unknown,0.37,,"P.O. Box 
+Detroit, OR 97342",97342,"503 854-3314
+503 854-3320",office@breitenbush.com,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dus0091.htm",
+OR_061_HLRV_51,Hot Lake RV Park,423875.7005,5010625.255,11 T,45.245,-117.9700,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Union County|
+La Grande, OR",Space Heating,190,F,unknown,830,gpm,unknown,0.3,MWt,unknown,0.5,GWh/yr,unknown,0.23,,"65182 Hot Lake Lane
+La Grande, OR",97850,541 963-5253,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dus0093.htm",
+OR_029_JHS_52,"Jackson Hot
+Springs",520020.489,5007532.892,10 T,45.221,-122.7450,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Jackson County|
+Ashland, OR",Space Heating,111,F,unknown,264,gpm,unknown,0.2,MWt,unknown,1.3,GWh/yr,unknown,0.72,,"2253 Hwy 99 North Ashland, OR",97520,541 482-3776,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dus0095.htm",
+OR_061_MHS_53,"Medical Hot
+Springs",450439.8394,4985031.465,11 T,45.017,-117.6290,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Union County|
+Medical Springs, OR",Space Heating,140,F,unknown,100,gpm,unknown,0.2,MWt,unknown,0.3,GWh/yr,unknown,0.25,,"Medical Springs, OR",,,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dus0105.htm",
+OR_061_RHS_54,"Radium Hot
+Springs",425823.4537,4975604.336,11 T,44.930,-117.9400,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Union County|
+Haines, OR",Space Heating,136,F,unknown,300,gpm,unknown,0.2,MWt,unknown,1.1,GWh/yr,unknown,0.68,,"Haines, OR",,,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dus0108.htm",
+OR_035_YMCA_55,YMCA,603084.583,4674847.46,10 T,42.219,-121.7510,EPSG:4326,lat/long from USGS Quadrangle/National Map Accuracy Standard,1,80,"Klamath County|
+Klamath Falls, OR",Space Heating,147,F,unknown,120,gpm,unknown,0.4,MWt,unknown,0.9,GWh/yr,unknown,0.25,,"1221 South Alameda
+Klamath Falls, OR",97603,541 884-4149,,"Geo-Heat Center, 2011. ""The Economic, Environmental and Social Benefits of Geothermal Use in Oregon"", Geo-Heat Center Quarterly Bulletin, Vol. 30, No. 3.
+http://geoheat.oit.edu/pdf/StateReport/Oregon.pdf
+http://geoheat.oit.edu/directuse/all/dus0112.htm",
+OR_045_OTM_56,Oregon Trail Mushrooms,480912.7918,4869901.243,11 T,43.982,-117.238,EPSG:4326,"General City location 
+lat/long from USGS Quadrangle/
+National Map Accuracy Standard",1,80,"Malheur County|
+Vale, OR",Industrial Use,235,F,unknown,275,gpm,unknown,6,MWt,unknown,15.9,GWh/yr,unknown,0.3,,"Rt. 3, Box 4397
+Vale, OR",97918,541 473-3103,,"http://geoheat.oit.edu/directuse/all/dui0194.htm
+Culver, G., 2004. ""Oregon Trail Mushrooms"", Geo-Heat Center Quarterly Bulletin, Vol. 25, No. 1.
+http://geoheat.oit.edu/bulletin/bull25-1/art5.pdf",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
